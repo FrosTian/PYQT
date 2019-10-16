@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="led">
+    <file>圆形 (1).png</file>
+    <file>圆形 (2).png</file>
+    <file>圆形 (3).png</file>
+    <file>圆形.png</file>
+  </qresource>
+</RCC>
